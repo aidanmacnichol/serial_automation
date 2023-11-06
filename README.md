@@ -1,0 +1,2 @@
+# Serial Automation
+This repo contains classes to help with automating a monochromator and power meter via RS232 communication. The word document contains information for setting up and the respective .md files contain documentation. example.py shows an example usage of both. 
